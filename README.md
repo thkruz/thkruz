@@ -48,5 +48,5 @@
 ![](https://img.shields.io/badge/OS-Kali%20Linux-informational?style=flat-square&logo=Kali%20Linux&logoColor=white&color=557C94)
 
 ## :chart_with_upwards_trend:Github Stats:
-![thkruz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thkruz&langs_count=8&layout=compact)
+<!-- ![thkruz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thkruz&langs_count=8&layout=compact) -->
 ![thkruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=thkruz&show_icons=true&layout=compact&line_height=24)
